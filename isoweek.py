@@ -1,6 +1,9 @@
 from datetime import date, datetime, timedelta
 from collections import namedtuple
 
+__version__ = (1, 2, 1)
+
+
 import sys
 if sys.version >= '3':
     # compatiblity tweaks

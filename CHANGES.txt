@@ -1,3 +1,8 @@
+v1.2.1, 2013-11-25
+
+    Fix: make sure week arithmetics preserve the Week class
+
+
 v1.2.0, 2011-10-20
 
     The module now works with Python 3.
